@@ -1,0 +1,17 @@
+C:\Users\AssassiN\source\repos\21pieces\21pieces\bin\Debug\21pieces.exe.config
+C:\Users\AssassiN\source\repos\21pieces\21pieces\bin\Debug\21pieces.exe
+C:\Users\AssassiN\source\repos\21pieces\21pieces\bin\Debug\21pieces.pdb
+C:\Users\AssassiN\source\repos\21pieces\21pieces\obj\Debug\21pieces.csproj.AssemblyReference.cache
+C:\Users\AssassiN\source\repos\21pieces\21pieces\obj\Debug\_21pieces.Properties.Resources.resources
+C:\Users\AssassiN\source\repos\21pieces\21pieces\obj\Debug\21pieces.csproj.GenerateResource.cache
+C:\Users\AssassiN\source\repos\21pieces\21pieces\obj\Debug\21pieces.csproj.CoreCompileInputs.cache
+C:\Users\AssassiN\source\repos\21pieces\21pieces\obj\Debug\21pieces.exe
+C:\Users\AssassiN\source\repos\21pieces\21pieces\obj\Debug\21pieces.pdb
+C:\Users\AssassiN\source\repos\21pieces\21pieces\obj\Debug\_21pieces.Home.resources
+C:\Users\AssassiN\source\repos\21pieces\21pieces\obj\Debug\_21pieces.single_play.resources
+C:\Users\AssassiN\source\repos\21pieces\21pieces\obj\Debug\_21pieces.help.resources
+C:\Users\AssassiN\source\repos\21pieces\21pieces\bin\Debug\21pieces.exe.manifest
+C:\Users\AssassiN\source\repos\21pieces\21pieces\bin\Debug\21pieces.application
+C:\Users\AssassiN\source\repos\21pieces\21pieces\obj\Debug\21pieces.exe.manifest
+C:\Users\AssassiN\source\repos\21pieces\21pieces\obj\Debug\21pieces.application
+C:\Users\AssassiN\source\repos\21pieces\21pieces\obj\Debug\_21pieces.multi_play.resources
